@@ -1,7 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23000000&size=36&width=500&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+reza+shakeri)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fredoka+One&color=%23000000&size=36&vCenter=true&multiline=true&height=60&lines=Hi+%2C+I%2Cm+reza+shakeri)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rzashakeri&label=Profile%20views&color=0e75b6&style=flat-square" alt="rzashakeri" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rzashakeri&show_icons=true&locale=en&layout=compact" alt="rzashakeri" /></p>
-
 <div align="center">
 <a href="https://github.com/rzashakeri" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
