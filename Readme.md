@@ -1,21 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fredoka+One&color=%23000000&size=36&vCenter=true&multiline=true&height=60&lines=Hi+I%2Cm+reza+shakeri+👋)](https://git.io/typing-svg) 
 <div align="left">
-<a href="https://github.com/rzashakeri" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/rzashakeri" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/rzashakeri" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/rzashakeri" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+
+[![Instagram](https://img.shields.io/badge/barnamenevisiinsta-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/barnamenevisiinsta/)
+[![Telegram](https://img.shields.io/badge/barnamenevisichannel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.t.me/barnamenevisichannel/)
+[![Twitter](https://img.shields.io/badge/barnamenevisitw-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/barnamenevisitw/)
+[![Gmail](https://img.shields.io/badge/emailma-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ertebatbabarnamenevisi@gmail.com)
+[![Visits Badge](https://badges.pufler.dev/visits/rzashakeri/rzashakeri?style=for-the-badge&logo=appveyor)](https://www.instagram.com/rzashakeri/)
+ 
 </div>  
  
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rzashakeri&label=Profile%20views&color=0e75b6&style=flat-square" alt="rzashakeri" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rzashakeri&show_icons=true&locale=en&layout=compact" alt="rzashakeri" /></p>
