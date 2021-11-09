@@ -10,9 +10,8 @@
  
 <p>
 
-## I am a programmer and I love the binary world <br/>
-I have been working for several years and have worked with programming languages such as: C#, C++, Python and JavaScript.
- I also created a media on Instagram called <a href="https://www.instagram.com/barnamenevisiinsta/" target="_blank">barnamenevisiinsta</a> which you can access and it is one of the contents that I produce in relation to the world of programming.
+## Welcome To My Page <br/>
+I am a programmer and I love the binary world and I live in Karaj I have been working for several years and have worked with programming languages such as: C#, C++, Python and JavaScript. I also created a media on Instagram called <a href="https://www.instagram.com/barnamenevisiinsta/" target="_blank">barnamenevisiinsta</a> which you can access and it is one of the contents that I produce in relation to the world of programming.
 
 </p>
 
