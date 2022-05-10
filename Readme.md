@@ -24,11 +24,10 @@ I work with  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noref
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rzashakeri)  
 
 
+ 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rzashakeri&show_icons=true) &nbsp; &nbsp; ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rzashakeri)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rzashakeri)  
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rzashakeri&show_icons=true)  
 
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rzashakeri&show_icons=true&locale=en&layout=compact" alt="rzashakeri" /></p>
