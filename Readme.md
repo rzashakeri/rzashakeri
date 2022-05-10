@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fredoka+One&color=%23000000&size=36&vCenter=true&multiline=true&height=60&lines=Hi+I%2Cm+Reza+Shakeri)](https://git.io/typing-svg) 
+[<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/Untitled%20Project.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
 
 <div align="left">
 
