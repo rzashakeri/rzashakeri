@@ -1,9 +1,3 @@
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-</div>  
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fredoka+One&color=%23000000&size=36&vCenter=true&multiline=true&height=60&lines=Hi+I%2Cm+Reza+Shakeri)](https://git.io/typing-svg) 
 
 
