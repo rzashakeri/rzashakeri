@@ -8,12 +8,14 @@
 [![Visits Badge](https://badges.pufler.dev/visits/rzashakeri/rzashakeri?style=for-the-badge&logo=appveyor)](https://www.instagram.com/rzashakeri/)
  
 </div>  
- 
+<div style="text-align: justify;"> 
 Hello friends, welcome to my github
 I am satisfied and I tried most fields of programming such as game development, mobile application development, web design and development, etc., and finally I was able to find my interest, and that was web design and development and hacking. It has been almost 10 years. I am coding and now I am a computer engineering student
 &nbsp;
 
 In addition to my personal page, you can also follow my main page called <a href="https://www.instagram.com/barnamenevisiinsta/">barnamenevisiinsta</a> on Instagram.
+</div>
+
 
 <p align="left">
 I code with :  👇
