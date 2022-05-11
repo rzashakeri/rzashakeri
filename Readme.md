@@ -9,7 +9,7 @@
  
 </div>  
 <p align="justify"> 
-Hello friends, welcome to my github
+Hello 🖐️ friends, welcome to my github
 I am satisfied and I tried most fields of programming such as game development, mobile application development, web design and development, etc., and finally I was able to find my interest, and that was web design and development and hacking. It has been almost 10 years. I am coding and now I am a computer engineering student
 &nbsp;
 
