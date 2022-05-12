@@ -14,5 +14,6 @@ jobs:
       - uses: rzashakeri/waka-readme@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
-          SHOW_TOTAL: true
+          SHOW_PROJECTS: "False"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_LOC_CHART: "False"
