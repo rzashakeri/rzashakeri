@@ -1,25 +1,17 @@
-name: wakatime-stats
+name: Waka Readme
 
 on:
   schedule:
-    - cron: '30 16 * * *'
-  workflow_dispatch:
+    # Runs at 12am UTC
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: rzashakeri/waka-readme-stats@main
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          USERNAME: rzashakeri # optional, it will automatically use the username of the owner of the repository who's executing the workflow.
-          SHOW_OS: "False"
-          SHOW_PROJECTS: "True"
-          SHOW_PROFILE_VIEWS: "False"
-          SHOW_EDITORS: "False"
-          SHOW_LANGUAGE_PER_REPO: "False"
-          SHOW_LOC_CHART: "False"
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_SHORT_INFO: "False"
+    
