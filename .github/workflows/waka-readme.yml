@@ -1,16 +1,63 @@
-name: Waka Readme
+name: "Waka - Readme"
+author: Athul Cyriac Ajay
+description: "Add a Wakatime Coding Activity graph in your Readme"
 
-on:
-  workflow_dispatch:
-  schedule:
-    # Runs at every 12AM UTC
-    - cron: "0 0 * * *"
+inputs:
+  GH_TOKEN:
+    description: "GitHub access token with Repo scope"
+    default: ${{ github.token }}
+    required: true
 
-jobs:
-  update-readme:
-    name: Update this repo's README
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+  WAKATIME_API_KEY:
+    description: "Your Wakatime/Wakapi/Hakatime API Key"
+    required: true
+
+  API_BASE_URL:
+    description: "Alternative API base URL when using a third-party WakaTime-ish backend"
+    default: "https://wakatime.com/api"
+    required: false
+
+  REPOSITORY:
+    description: "Your GitHub repository"
+    default: ${{ github.repository }}
+    required: false
+
+  COMMIT_MESSAGE:
+    description: "Add a commit message of your choice"
+    default: "Updated the Graph with new Metrics"
+    required: false
+
+  # content tweaks
+
+  SHOW_TITLE:
+    description: "Displays the week number and days in Readme as title"
+    default: "false"
+    required: false
+
+  BLOCKS:
+    description: "Add the progress blocks of your choice"
+    default: "░▒▓█"
+    required: false
+
+  TIME_RANGE:
+    description: "Time range of the queried statistics"
+    default: "last_7_days"
+    required: false
+
+  SHOW_TIME:
+    description: "Displays the amount of time spent for each language"
+    default: "true"
+    required: false
+
+  SHOW_TOTAL:
+    description: "Displays total coding time"
+    default: "false"
+    required: false
+
+runs:
+  using: "docker"
+  image: "Dockerfile"
+
+branding:
+  icon: "info"
+  color: "blue"
