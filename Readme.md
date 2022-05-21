@@ -38,7 +38,7 @@ I code with :  👇
 </details>
 
 <details>
-  <summary>⚡ Recent GitHub Activity</summary>
+  <summary>📈 rzashakeri's Activity Graph</summary>
   <br/>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="rzashakeri's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=rzashakeri&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" /></a>
 </details>
