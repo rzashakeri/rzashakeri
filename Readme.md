@@ -42,19 +42,3 @@ I code with :  👇
   <br/>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="rzashakeri's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=rzashakeri&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" /></a>
 </details>
-
-
-<!--START_SECTION:waka-->
-
-```text
-Total Time: 30 hrs 31 mins
-
-Python       16 hrs 46 mins  █████████████▓░░░░░░░░░░░   54.96 %
-HTML         8 hrs 47 mins   ███████▒░░░░░░░░░░░░░░░░░   28.80 %
-CSS          3 hrs 56 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.92 %
-Markdown     35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-JavaScript   23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-```
-
-<!--END_SECTION:waka-->
