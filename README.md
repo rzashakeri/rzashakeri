@@ -27,7 +27,7 @@ I code with :  👇
 
 &nbsp;
 &nbsp;
-## 📊 Github stats
+## Github stats 📊 
 
 <details> 
   <summary>GitHub Profile Stats 💻</summary>
@@ -43,16 +43,7 @@ I code with :  👇
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="rzashakeri's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=rzashakeri&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" /></a>
 </details>
 
-<details>
-  <summary>Recent GitHub Activity ✅</summary>
-  <br/>
+## Recent GitHub Activity ✅
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](https://github.com/rzashakeri/beautify-github-profile/pull/14) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
-2. 🗣 Commented on [#14](https://github.com/rzashakeri/beautify-github-profile/issues/14) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
-3. ❗️ Closed issue [#27](https://github.com/mbourqui/django-constrainedfilefield/issues/27) in [mbourqui/django-constrainedfilefield](https://github.com/mbourqui/django-constrainedfilefield)
-4. ❗️ Opened issue [#27](https://github.com/mbourqui/django-constrainedfilefield/issues/27) in [mbourqui/django-constrainedfilefield](https://github.com/mbourqui/django-constrainedfilefield)
-5. ❗️ Closed issue [#13](https://github.com/rzashakeri/beautify-github-profile/issues/13) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
-<!--END_SECTION:activity-->
-</details>
 
 
