@@ -47,7 +47,7 @@ I code with :  👇
   <summary>Recent GitHub Activity ✅</summary>
   <br/>
 <!--START_SECTION:activity-->
- 
+1. ❌ Closed PR [#14](https://github.com/rzashakeri/beautify-github-profile/pull/14) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
 <!--END_SECTION:activity-->
 </details>
 
