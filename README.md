@@ -43,6 +43,13 @@ I code with :  👇
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="rzashakeri's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=rzashakeri&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" /></a>
 </details>
 
+
+<details>
+  <summary>Achievements 🏆</summary>
+  <br/>
+![Metrics](https://metrics.lecoq.io/rzashakeri?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&base.indepth=false&base.hireable=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FTehran)
+</details>
+
 ## Recent GitHub Activity ✅
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#14](https://github.com/rzashakeri/beautify-github-profile/pull/14) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
@@ -52,4 +59,6 @@ I code with :  👇
 5. ❗️ Closed issue [#13](https://github.com/rzashakeri/beautify-github-profile/issues/13) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
 <!--END_SECTION:activity-->
 
+
+![Metrics](https://metrics.lecoq.io/rzashakeri?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&base.indepth=false&base.hireable=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FTehran)
 
