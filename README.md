@@ -53,4 +53,4 @@ I code with :  👇
 <!--END_SECTION:activity-->
 
 ## GitHub Profile Trophy 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=rzashakeri&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rzashakeri&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
