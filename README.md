@@ -30,7 +30,7 @@ I code with :  👇
 ## 📊 Github stats
 
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
+  <summary>GitHub Profile Stats 💻</summary>
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rzashakeri's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=rzashakeri&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rzashakeri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzashakeri&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
@@ -38,15 +38,17 @@ I code with :  👇
 </details>
 
 <details>
-  <summary>📈 Activity Graph</summary>
+  <summary>Activity Graph 📈</summary>
   <br/>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="rzashakeri's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=rzashakeri&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" /></a>
 </details>
 
+<details>
+  <summary>Recent GitHub Activity ✅</summary>
+  <br/>
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](https://github.com/rzashakeri/beautify-github-profile/pull/14) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
-2. 🗣 Commented on [#14](https://github.com/rzashakeri/beautify-github-profile/issues/14) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
-3. ❗️ Closed issue [#27](https://github.com/mbourqui/django-constrainedfilefield/issues/27) in [mbourqui/django-constrainedfilefield](https://github.com/mbourqui/django-constrainedfilefield)
-4. ❗️ Opened issue [#27](https://github.com/mbourqui/django-constrainedfilefield/issues/27) in [mbourqui/django-constrainedfilefield](https://github.com/mbourqui/django-constrainedfilefield)
-5. ❗️ Closed issue [#13](https://github.com/rzashakeri/beautify-github-profile/issues/13) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+ 
 <!--END_SECTION:activity-->
+</details>
+
+
