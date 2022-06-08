@@ -45,5 +45,11 @@ I code with :  👇
 
 ## Recent GitHub Activity ✅
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#14](https://github.com/rzashakeri/beautify-github-profile/pull/14) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+2. 🗣 Commented on [#14](https://github.com/rzashakeri/beautify-github-profile/issues/14) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+3. ❗️ Closed issue [#27](https://github.com/mbourqui/django-constrainedfilefield/issues/27) in [mbourqui/django-constrainedfilefield](https://github.com/mbourqui/django-constrainedfilefield)
+4. ❗️ Opened issue [#27](https://github.com/mbourqui/django-constrainedfilefield/issues/27) in [mbourqui/django-constrainedfilefield](https://github.com/mbourqui/django-constrainedfilefield)
+5. ❗️ Closed issue [#13](https://github.com/rzashakeri/beautify-github-profile/issues/13) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+<!--END_SECTION:activity-->
 
 
