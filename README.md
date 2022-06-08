@@ -58,7 +58,3 @@ I code with :  👇
 4. ❗️ Opened issue [#27](https://github.com/mbourqui/django-constrainedfilefield/issues/27) in [mbourqui/django-constrainedfilefield](https://github.com/mbourqui/django-constrainedfilefield)
 5. ❗️ Closed issue [#13](https://github.com/rzashakeri/beautify-github-profile/issues/13) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
 <!--END_SECTION:activity-->
-
-
-![Metrics](https://metrics.lecoq.io/rzashakeri?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&base.indepth=false&base.hireable=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FTehran)
-
