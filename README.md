@@ -6,6 +6,7 @@
 [![Twitter](https://img.shields.io/badge/rzashakeri-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/rzashakeri/)
 [![Linkedin](https://img.shields.io/badge/rzashakeri-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rzashakeri//)
 [![github](https://img.shields.io/badge/rzashakeri-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rzashakeri/)
+[![telegram](https://img.shields.io/badge/rzashakeri-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rzashakeri/)
 ![](https://komarev.com/ghpvc/?username=rzashakerie&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
 
  
