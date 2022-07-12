@@ -46,10 +46,10 @@ I code with :  👇
 
 ## Recent GitHub Activity ✅
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2108](https://github.com/vinta/awesome-python/pull/2108) in [vinta/awesome-python](https://github.com/vinta/awesome-python)
-2. 🎉 Merged PR [#15](https://github.com/rzashakeri/beautify-github-profile/pull/15) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
-3. 🗣 Commented on [#15](https://github.com/rzashakeri/beautify-github-profile/issues/15) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
-4. ❗️ Opened issue [#27](https://github.com/mbourqui/django-constrainedfilefield/issues/27) in [mbourqui/django-constrainedfilefield](https://github.com/mbourqui/django-constrainedfilefield)
+1. 💪 Opened PR [#175](https://github.com/wsvincent/awesome-django/pull/175) in [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django)
+2. 💪 Opened PR [#2108](https://github.com/vinta/awesome-python/pull/2108) in [vinta/awesome-python](https://github.com/vinta/awesome-python)
+3. 🎉 Merged PR [#15](https://github.com/rzashakeri/beautify-github-profile/pull/15) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+4. 🗣 Commented on [#15](https://github.com/rzashakeri/beautify-github-profile/issues/15) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
 5. ❗️ Closed issue [#13](https://github.com/rzashakeri/beautify-github-profile/issues/13) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
 <!--END_SECTION:activity-->
 
