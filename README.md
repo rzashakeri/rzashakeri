@@ -46,11 +46,11 @@ I code with :  👇
 
 ## Recent GitHub Activity ✅
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#175](https://github.com/wsvincent/awesome-django/pull/175) in [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django)
-2. 💪 Opened PR [#2108](https://github.com/vinta/awesome-python/pull/2108) in [vinta/awesome-python](https://github.com/vinta/awesome-python)
-3. 🎉 Merged PR [#15](https://github.com/rzashakeri/beautify-github-profile/pull/15) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
-4. 🗣 Commented on [#15](https://github.com/rzashakeri/beautify-github-profile/issues/15) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
-5. ❗️ Closed issue [#13](https://github.com/rzashakeri/beautify-github-profile/issues/13) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+1. 🎉 Merged PR [#1](https://github.com/rzashakeri/django-audio-validator/pull/1) in [rzashakeri/django-audio-validator](https://github.com/rzashakeri/django-audio-validator)
+2. 💪 Opened PR [#1](https://github.com/rzashakeri/django-audio-validator/pull/1) in [rzashakeri/django-audio-validator](https://github.com/rzashakeri/django-audio-validator)
+3. 💪 Opened PR [#175](https://github.com/wsvincent/awesome-django/pull/175) in [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django)
+4. 💪 Opened PR [#2108](https://github.com/vinta/awesome-python/pull/2108) in [vinta/awesome-python](https://github.com/vinta/awesome-python)
+5. 🎉 Merged PR [#15](https://github.com/rzashakeri/beautify-github-profile/pull/15) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
 <!--END_SECTION:activity-->
 
 ## GitHub Profile Trophy 🏆
