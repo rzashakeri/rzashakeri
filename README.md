@@ -46,9 +46,9 @@ I code with :  👇
 
 ## Recent GitHub Activity ✅
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#74](https://github.com/pypa/packaging-problems/issues/74) in [pypa/packaging-problems](https://github.com/pypa/packaging-problems)
-2. 🎉 Merged PR [#17](https://github.com/rzashakeri/beautify-github-profile/pull/17) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
-3. 🗣 Commented on [#17](https://github.com/rzashakeri/beautify-github-profile/issues/17) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+1. 🎉 Merged PR [#1](https://github.com/rzashakeri/file_validator/pull/1) in [rzashakeri/file_validator](https://github.com/rzashakeri/file_validator)
+2. 💪 Opened PR [#1](https://github.com/rzashakeri/file_validator/pull/1) in [rzashakeri/file_validator](https://github.com/rzashakeri/file_validator)
+3. 🗣 Commented on [#74](https://github.com/pypa/packaging-problems/issues/74) in [pypa/packaging-problems](https://github.com/pypa/packaging-problems)
 4. 🗣 Commented on [#16](https://github.com/rzashakeri/beautify-github-profile/issues/16) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
 5. 🎉 Merged PR [#16](https://github.com/rzashakeri/beautify-github-profile/pull/16) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
 <!--END_SECTION:activity-->
