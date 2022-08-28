@@ -53,7 +53,7 @@ I code with :  👇
 
 ## Recent GitHub Activity ✅
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/rzashakeri/file_validator/pull/4) in [rzashakeri/file_validator](https://github.com/rzashakeri/file_validator)
+1. 🗣 Commented on [#175](https://github.com/wsvincent/awesome-django/issues/175) in [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django)
 2. 🎉 Merged PR [#5](https://github.com/rzashakeri/file_validator/pull/5) in [rzashakeri/file_validator](https://github.com/rzashakeri/file_validator)
 3. ❗️ Opened issue [#3](https://github.com/rzashakeri/file_validator/issues/3) in [rzashakeri/file_validator](https://github.com/rzashakeri/file_validator)
 4. 🗣 Commented on [#2](https://github.com/rzashakeri/file_validator/issues/2) in [rzashakeri/file_validator](https://github.com/rzashakeri/file_validator)
