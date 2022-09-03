@@ -53,9 +53,9 @@ I code with :  👇
 
 ## Recent GitHub Activity ✅
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#175](https://github.com/wsvincent/awesome-django/issues/175) in [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django)
-2. 🎉 Merged PR [#5](https://github.com/rzashakeri/file_validator/pull/5) in [rzashakeri/file_validator](https://github.com/rzashakeri/file_validator)
-3. ❗️ Opened issue [#3](https://github.com/rzashakeri/file_validator/issues/3) in [rzashakeri/file_validator](https://github.com/rzashakeri/file_validator)
+1. 🎉 Merged PR [#1](https://github.com/rzashakeri/make-x-with-y/pull/1) in [rzashakeri/make-x-with-y](https://github.com/rzashakeri/make-x-with-y)
+2. 💪 Opened PR [#1](https://github.com/rzashakeri/make-x-with-y/pull/1) in [rzashakeri/make-x-with-y](https://github.com/rzashakeri/make-x-with-y)
+3. 🗣 Commented on [#175](https://github.com/wsvincent/awesome-django/issues/175) in [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django)
 4. 🗣 Commented on [#2](https://github.com/rzashakeri/file_validator/issues/2) in [rzashakeri/file_validator](https://github.com/rzashakeri/file_validator)
 5. ❗️ Opened issue [#2](https://github.com/rzashakeri/file_validator/issues/2) in [rzashakeri/file_validator](https://github.com/rzashakeri/file_validator)
 <!--END_SECTION:activity-->
