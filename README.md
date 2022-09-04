@@ -53,7 +53,7 @@ I code with :  👇
 
 ## Recent GitHub Activity ✅
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/rzashakeri/make-x-with-y/pull/3) in [rzashakeri/make-x-with-y](https://github.com/rzashakeri/make-x-with-y)
+1. 🗣 Commented on [#175](https://github.com/wsvincent/awesome-django/issues/175) in [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django)
 2. 💪 Opened PR [#3](https://github.com/rzashakeri/make-x-with-y/pull/3) in [rzashakeri/make-x-with-y](https://github.com/rzashakeri/make-x-with-y)
 3. 🎉 Merged PR [#1](https://github.com/rzashakeri/make-x-with-y/pull/1) in [rzashakeri/make-x-with-y](https://github.com/rzashakeri/make-x-with-y)
 4. 💪 Opened PR [#1](https://github.com/rzashakeri/make-x-with-y/pull/1) in [rzashakeri/make-x-with-y](https://github.com/rzashakeri/make-x-with-y)
