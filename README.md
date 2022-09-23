@@ -53,11 +53,11 @@ I code with :  👇
 
 ## Recent GitHub Activity ✅
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/rzashakeri/file_validator/pull/6) in [rzashakeri/file_validator](https://github.com/rzashakeri/file_validator)
-2. 🗣 Commented on [#6](https://github.com/rzashakeri/file_validator/issues/6) in [rzashakeri/file_validator](https://github.com/rzashakeri/file_validator)
-3. 🎉 Merged PR [#7](https://github.com/rzashakeri/file_validator/pull/7) in [rzashakeri/file_validator](https://github.com/rzashakeri/file_validator)
-4. 🎉 Merged PR [#8](https://github.com/rzashakeri/file_validator/pull/8) in [rzashakeri/file_validator](https://github.com/rzashakeri/file_validator)
-5. 💪 Opened PR [#7](https://github.com/rzashakeri/file_validator/pull/7) in [rzashakeri/file_validator](https://github.com/rzashakeri/file_validator)
+1. 🗣 Commented on [#18](https://github.com/rzashakeri/beautify-github-profile/issues/18) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+2. 🎉 Merged PR [#18](https://github.com/rzashakeri/beautify-github-profile/pull/18) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+3. 🎉 Merged PR [#6](https://github.com/rzashakeri/file_validator/pull/6) in [rzashakeri/file_validator](https://github.com/rzashakeri/file_validator)
+4. 🗣 Commented on [#6](https://github.com/rzashakeri/file_validator/issues/6) in [rzashakeri/file_validator](https://github.com/rzashakeri/file_validator)
+5. 🎉 Merged PR [#7](https://github.com/rzashakeri/file_validator/pull/7) in [rzashakeri/file_validator](https://github.com/rzashakeri/file_validator)
 <!--END_SECTION:activity-->
 
 ## GitHub Profile Trophy 🏆
