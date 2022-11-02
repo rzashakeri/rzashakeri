@@ -52,10 +52,10 @@ I code with :  👇
 
 ## Recent GitHub Activity ✅
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/rzashakeri/beautify-github-profile/pull/20) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
-2. 🗣 Commented on [#20](https://github.com/rzashakeri/beautify-github-profile/issues/20) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
-3. ❗️ Closed issue [#19](https://github.com/rzashakeri/beautify-github-profile/issues/19) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
-4. 🗣 Commented on [#18](https://github.com/rzashakeri/beautify-github-profile/issues/18) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+1. 💪 Opened PR [#9](https://github.com/rzashakeri/file_validator/pull/9) in [rzashakeri/file_validator](https://github.com/rzashakeri/file_validator)
+2. 🎉 Merged PR [#20](https://github.com/rzashakeri/beautify-github-profile/pull/20) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+3. 🗣 Commented on [#20](https://github.com/rzashakeri/beautify-github-profile/issues/20) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+4. ❗️ Closed issue [#19](https://github.com/rzashakeri/beautify-github-profile/issues/19) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
 5. 🗣 Commented on [#18](https://github.com/rzashakeri/beautify-github-profile/issues/18) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
 <!--END_SECTION:activity-->
 
