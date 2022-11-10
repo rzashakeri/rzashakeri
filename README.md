@@ -128,11 +128,11 @@ Hello friends ✋ , welcome to my GitHub. I am Reza Shakri and I have tried most
 
 ## Recent GitHub Activity ✅
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2108](https://github.com/vinta/awesome-python/pull/2108) in [vinta/awesome-python](https://github.com/vinta/awesome-python)
-2. 🎉 Merged PR [#23](https://github.com/rzashakeri/beautify-github-profile/pull/23) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
-3. 🗣 Commented on [#23](https://github.com/rzashakeri/beautify-github-profile/issues/23) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
-4. 🎉 Merged PR [#22](https://github.com/rzashakeri/beautify-github-profile/pull/22) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
-5. 🗣 Commented on [#22](https://github.com/rzashakeri/beautify-github-profile/issues/22) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+1. 💪 Opened PR [#925](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/925) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+2. ❌ Closed PR [#2108](https://github.com/vinta/awesome-python/pull/2108) in [vinta/awesome-python](https://github.com/vinta/awesome-python)
+3. 🎉 Merged PR [#23](https://github.com/rzashakeri/beautify-github-profile/pull/23) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+4. 🗣 Commented on [#23](https://github.com/rzashakeri/beautify-github-profile/issues/23) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+5. 🎉 Merged PR [#22](https://github.com/rzashakeri/beautify-github-profile/pull/22) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
 <!--END_SECTION:activity-->
 
 ## GitHub Profile Trophy 🏆
