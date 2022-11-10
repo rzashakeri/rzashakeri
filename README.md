@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm reza" title="👋 Hi there! I'm reza"/>
 
-<div align="left">
+<div align="center">
 
 [![Instagram](https://img.shields.io/badge/rzashakeri-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rzashakeri/)
 [![Twitter](https://img.shields.io/badge/rzashakeri-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/rzashakeri/)
