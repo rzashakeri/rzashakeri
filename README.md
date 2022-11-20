@@ -154,11 +154,11 @@ Hello friends ✋ , welcome to my GitHub. I am Reza Shakri and I have tried most
 
 ## Recent GitHub Activity ✅
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/rzashakeri/file_validator/pull/10) in [rzashakeri/file_validator](https://github.com/rzashakeri/file_validator)
-2. 💪 Opened PR [#925](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/925) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-3. ❌ Closed PR [#2108](https://github.com/vinta/awesome-python/pull/2108) in [vinta/awesome-python](https://github.com/vinta/awesome-python)
-4. 🎉 Merged PR [#23](https://github.com/rzashakeri/beautify-github-profile/pull/23) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
-5. 🗣 Commented on [#23](https://github.com/rzashakeri/beautify-github-profile/issues/23) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+1. ❌ Closed PR [#10](https://github.com/rzashakeri/file_validator/pull/10) in [rzashakeri/file_validator](https://github.com/rzashakeri/file_validator)
+2. 💪 Opened PR [#10](https://github.com/rzashakeri/file_validator/pull/10) in [rzashakeri/file_validator](https://github.com/rzashakeri/file_validator)
+3. 💪 Opened PR [#925](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/925) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+4. ❌ Closed PR [#2108](https://github.com/vinta/awesome-python/pull/2108) in [vinta/awesome-python](https://github.com/vinta/awesome-python)
+5. 🎉 Merged PR [#23](https://github.com/rzashakeri/beautify-github-profile/pull/23) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
 <!--END_SECTION:activity-->
 
 ## GitHub Profile Trophy 🏆
