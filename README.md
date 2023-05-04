@@ -134,10 +134,10 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#360](https://github.com/xtekky/gpt4free/issues/360) in [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
-2. ❗️ Closed issue [#1](https://github.com/rzashakeri/awesome-persian/issues/1) in [rzashakeri/awesome-persian](https://github.com/rzashakeri/awesome-persian)
-3. 🗣 Commented on [#1](https://github.com/rzashakeri/awesome-persian/issues/1) in [rzashakeri/awesome-persian](https://github.com/rzashakeri/awesome-persian)
-4. 🎉 Merged PR [#189](https://github.com/file-validator/file-validator/pull/189) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
-5. 🎉 Merged PR [#210](https://github.com/rzashakeri/Instagram-Assistant/pull/210) in [rzashakeri/Instagram-Assistant](https://github.com/rzashakeri/Instagram-Assistant)
+2. 🗣 Commented on [#360](https://github.com/xtekky/gpt4free/issues/360) in [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
+3. ❗️ Closed issue [#1](https://github.com/rzashakeri/awesome-persian/issues/1) in [rzashakeri/awesome-persian](https://github.com/rzashakeri/awesome-persian)
+4. 🗣 Commented on [#1](https://github.com/rzashakeri/awesome-persian/issues/1) in [rzashakeri/awesome-persian](https://github.com/rzashakeri/awesome-persian)
+5. 🎉 Merged PR [#189](https://github.com/file-validator/file-validator/pull/189) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
 <!--END_SECTION:activity-->
 
 ## GitHub Profile Trophy 🏆
