@@ -133,11 +133,11 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#330](https://github.com/rzashakeri/Instagram-Assistant/pull/330) in [rzashakeri/Instagram-Assistant](https://github.com/rzashakeri/Instagram-Assistant)
-2. 🎉 Merged PR [#328](https://github.com/rzashakeri/Instagram-Assistant/pull/328) in [rzashakeri/Instagram-Assistant](https://github.com/rzashakeri/Instagram-Assistant)
-3. 💪 Opened PR [#328](https://github.com/rzashakeri/Instagram-Assistant/pull/328) in [rzashakeri/Instagram-Assistant](https://github.com/rzashakeri/Instagram-Assistant)
-4. 🎉 Merged PR [#204](https://github.com/file-validator/file-validator/pull/204) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
-5. 💪 Opened PR [#204](https://github.com/file-validator/file-validator/pull/204) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
+1. 🗣 Commented on [#200](https://github.com/file-validator/file-validator/issues/200) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
+2. ❗️ Reopened issue [#200](https://github.com/file-validator/file-validator/issues/200) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
+3. 💪 Opened PR [#330](https://github.com/rzashakeri/Instagram-Assistant/pull/330) in [rzashakeri/Instagram-Assistant](https://github.com/rzashakeri/Instagram-Assistant)
+4. 🎉 Merged PR [#328](https://github.com/rzashakeri/Instagram-Assistant/pull/328) in [rzashakeri/Instagram-Assistant](https://github.com/rzashakeri/Instagram-Assistant)
+5. 💪 Opened PR [#328](https://github.com/rzashakeri/Instagram-Assistant/pull/328) in [rzashakeri/Instagram-Assistant](https://github.com/rzashakeri/Instagram-Assistant)
 <!--END_SECTION:activity-->
 
 ## GitHub Profile Trophy 🏆
