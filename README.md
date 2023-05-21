@@ -71,7 +71,7 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
     </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
-      <br>JQuery
+      <br>PostgreSQL
     </td>
   </tr>
   <tr>
