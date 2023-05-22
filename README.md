@@ -137,11 +137,11 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#336](https://github.com/rzashakeri/Instagram-Assistant/pull/336) in [rzashakeri/Instagram-Assistant](https://github.com/rzashakeri/Instagram-Assistant)
-2. 💪 Opened PR [#336](https://github.com/rzashakeri/Instagram-Assistant/pull/336) in [rzashakeri/Instagram-Assistant](https://github.com/rzashakeri/Instagram-Assistant)
-3. ❌ Closed PR [#2635](https://github.com/sindresorhus/awesome/pull/2635) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-4. 💪 Opened PR [#2635](https://github.com/sindresorhus/awesome/pull/2635) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-5. 🎉 Merged PR [#335](https://github.com/rzashakeri/Instagram-Assistant/pull/335) in [rzashakeri/Instagram-Assistant](https://github.com/rzashakeri/Instagram-Assistant)
+1. 🎉 Merged PR [#340](https://github.com/rzashakeri/Instagram-Assistant/pull/340) in [rzashakeri/Instagram-Assistant](https://github.com/rzashakeri/Instagram-Assistant)
+2. 💪 Opened PR [#340](https://github.com/rzashakeri/Instagram-Assistant/pull/340) in [rzashakeri/Instagram-Assistant](https://github.com/rzashakeri/Instagram-Assistant)
+3. 🎉 Merged PR [#338](https://github.com/rzashakeri/Instagram-Assistant/pull/338) in [rzashakeri/Instagram-Assistant](https://github.com/rzashakeri/Instagram-Assistant)
+4. 💪 Opened PR [#338](https://github.com/rzashakeri/Instagram-Assistant/pull/338) in [rzashakeri/Instagram-Assistant](https://github.com/rzashakeri/Instagram-Assistant)
+5. 🎉 Merged PR [#336](https://github.com/rzashakeri/Instagram-Assistant/pull/336) in [rzashakeri/Instagram-Assistant](https://github.com/rzashakeri/Instagram-Assistant)
 <!--END_SECTION:activity-->
 
 ## GitHub Profile Trophy 🏆
