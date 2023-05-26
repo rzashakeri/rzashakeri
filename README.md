@@ -137,6 +137,15 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
 
 </details>
 
+
+<details>
+  <summary>Wakatime ⏳</summary>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rzashakeri&layout=compact">
+
+</details>
+
+
 ## Recent GitHub Activity ✅
 
 <!--START_SECTION:activity-->
