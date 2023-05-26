@@ -1,5 +1,6 @@
 <img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm reza" title="👋 Hi there! I'm reza"/>
 
+
 <div align="justify">
 
 <a href="https://www.instagram.com/rzashakeri/">
@@ -130,6 +131,7 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
 
 </details>
 
+
 <details>
   <summary>Profile Views 👁️</summary>
   <br/>
@@ -145,6 +147,27 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
 
 </details>
 
+
+<details>
+  <summary>Extra Pins 📌</summary>
+  <br/>
+  <a href="https://github.com/rzashakeri/Lorem-Farsi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=Lorem-Farsi&theme=default" />
+</a>
+  <br/>
+  <br/>
+ 
+   <a href="https://github.com/rzashakeri/Happier">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=Happier&theme=default" />
+</a>
+  <br/>
+  <br/>
+ 
+   <a href="https://github.com/rzashakeri/telegram-bot-template">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=telegram-bot-template&theme=default" />
+ </a>
+ 
+</details>
 
 ## Recent GitHub Activity ✅
 
