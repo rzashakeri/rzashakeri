@@ -108,6 +108,10 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
       <br>Rest API
     </td>
+          <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Docker
+    </td>
   </tr>
  <tr>
  </tr>
