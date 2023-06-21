@@ -78,10 +78,6 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
         <img src="https://skillicons.dev/icons?i=dart" alt="icon" width="50" height="50" />
       <br>Dart
     </td>
-         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
-      <br>ASP.NET
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -115,6 +111,10 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
       <br>PostgreSQL
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
+      <br>ASP.NET
     </td>
   </tr>
  <tr>
