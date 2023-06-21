@@ -59,6 +59,10 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
       <br>C++
     </td>
     <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" alt="icon" width="65" height="65" />
+      <br>Dart
+    </td>
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
       <br>Django
     </td>
