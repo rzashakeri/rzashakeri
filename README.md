@@ -117,6 +117,16 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
       <br>ASP.NET
     </td>
   </tr>
+   <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Git" />
+      <br>Redis
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Git" />
+      <br>Postman
+    </td>
+  </tr>
  <tr>
  </tr>
 </table>
