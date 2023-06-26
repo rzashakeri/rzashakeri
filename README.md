@@ -203,11 +203,11 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1322](https://github.com/adw0rd/instagrapi/issues/1322) in [adw0rd/instagrapi](https://github.com/adw0rd/instagrapi)
-2. 🎉 Merged PR [#381](https://github.com/rzashakeri/Instagram-Assistant/pull/381) in [rzashakeri/Instagram-Assistant](https://github.com/rzashakeri/Instagram-Assistant)
-3. 💪 Opened PR [#381](https://github.com/rzashakeri/Instagram-Assistant/pull/381) in [rzashakeri/Instagram-Assistant](https://github.com/rzashakeri/Instagram-Assistant)
-4. 🎉 Merged PR [#380](https://github.com/rzashakeri/Instagram-Assistant/pull/380) in [rzashakeri/Instagram-Assistant](https://github.com/rzashakeri/Instagram-Assistant)
-5. 🗣 Commented on [#34](https://github.com/rzashakeri/beautify-github-profile/issues/34) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+1. 🗣 Commented on [#35](https://github.com/rzashakeri/beautify-github-profile/issues/35) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+2. 🎉 Merged PR [#35](https://github.com/rzashakeri/beautify-github-profile/pull/35) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+3. 🗣 Commented on [#1322](https://github.com/adw0rd/instagrapi/issues/1322) in [adw0rd/instagrapi](https://github.com/adw0rd/instagrapi)
+4. 🎉 Merged PR [#381](https://github.com/rzashakeri/Instagram-Assistant/pull/381) in [rzashakeri/Instagram-Assistant](https://github.com/rzashakeri/Instagram-Assistant)
+5. 💪 Opened PR [#381](https://github.com/rzashakeri/Instagram-Assistant/pull/381) in [rzashakeri/Instagram-Assistant](https://github.com/rzashakeri/Instagram-Assistant)
 <!--END_SECTION:activity-->
 
 ## GitHub Profile Trophy 🏆
