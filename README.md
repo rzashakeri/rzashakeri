@@ -1,5 +1,4 @@
-<img width="1000" alt="235274104-22ec98bf-88e7-4cda-90bc-66744f8f16cc" src="https://github.com/rzashakeri/rzashakeri/assets/62311769/907bb664-5023-4afe-8487-9a112d40ae48">
-
+<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm reza" title="👋 Hi there! I'm reza"/>
 <div align="justify">
 
 <a href="https://www.instagram.com/rzashakeri/">
