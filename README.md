@@ -194,6 +194,14 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
    <a href="https://github.com/rzashakeri/telegram-bot-template">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=telegram-bot-template&theme=default" />
  </a>
+
+
+   <br/>
+  <br/>
+ 
+   <a href="https://github.com/rzashakeri/pycharm-portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=pycharm-portfolio&theme=default" />
+ </a>
  
 </details>
 
