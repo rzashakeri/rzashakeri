@@ -209,11 +209,11 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1484](https://github.com/adw0rd/instagrapi/issues/1484#issuecomment-1651507548) in [adw0rd/instagrapi](https://github.com/adw0rd/instagrapi)
-2. ❗ Opened issue [#1484](https://github.com/adw0rd/instagrapi/issues/1484) in [adw0rd/instagrapi](https://github.com/adw0rd/instagrapi)
-3. 🎉 Merged PR [#420](https://github.com/rzashakeri/Instagram-Assistant/pull/420) in [rzashakeri/Instagram-Assistant](https://github.com/rzashakeri/Instagram-Assistant)
-4. 💪 Opened PR [#420](https://github.com/rzashakeri/Instagram-Assistant/pull/420) in [rzashakeri/Instagram-Assistant](https://github.com/rzashakeri/Instagram-Assistant)
-5. 🎉 Merged PR [#419](https://github.com/rzashakeri/Instagram-Assistant/pull/419) in [rzashakeri/Instagram-Assistant](https://github.com/rzashakeri/Instagram-Assistant)
+1. 🗣 Commented on [#1484](https://github.com/adw0rd/instagrapi/issues/1484#issuecomment-1656115868) in [adw0rd/instagrapi](https://github.com/adw0rd/instagrapi)
+2. 🗣 Commented on [#1484](https://github.com/adw0rd/instagrapi/issues/1484#issuecomment-1651507548) in [adw0rd/instagrapi](https://github.com/adw0rd/instagrapi)
+3. ❗ Opened issue [#1484](https://github.com/adw0rd/instagrapi/issues/1484) in [adw0rd/instagrapi](https://github.com/adw0rd/instagrapi)
+4. 🎉 Merged PR [#420](https://github.com/rzashakeri/Instagram-Assistant/pull/420) in [rzashakeri/Instagram-Assistant](https://github.com/rzashakeri/Instagram-Assistant)
+5. 💪 Opened PR [#420](https://github.com/rzashakeri/Instagram-Assistant/pull/420) in [rzashakeri/Instagram-Assistant](https://github.com/rzashakeri/Instagram-Assistant)
 <!--END_SECTION:activity-->
 
 ## GitHub Profile Trophy 🏆
