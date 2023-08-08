@@ -209,11 +209,11 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#217](https://github.com/file-validator/file-validator/pull/217) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
-2. 🗣 Commented on [#337](https://github.com/carltongibson/django-filter/pull/337#issuecomment-1659348123) in [carltongibson/django-filter](https://github.com/carltongibson/django-filter)
-3. ❗ Opened issue [#721](https://github.com/django-money/django-money/issues/721) in [django-money/django-money](https://github.com/django-money/django-money)
-4. 🎉 Merged PR [#429](https://github.com/rzashakeri/Instagram-Assistant/pull/429) in [rzashakeri/Instagram-Assistant](https://github.com/rzashakeri/Instagram-Assistant)
-5. 💪 Opened PR [#429](https://github.com/rzashakeri/Instagram-Assistant/pull/429) in [rzashakeri/Instagram-Assistant](https://github.com/rzashakeri/Instagram-Assistant)
+1. 🎉 Merged PR [#218](https://github.com/file-validator/file-validator/pull/218) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
+2. 🎉 Merged PR [#217](https://github.com/file-validator/file-validator/pull/217) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
+3. 🗣 Commented on [#337](https://github.com/carltongibson/django-filter/pull/337#issuecomment-1659348123) in [carltongibson/django-filter](https://github.com/carltongibson/django-filter)
+4. ❗ Opened issue [#721](https://github.com/django-money/django-money/issues/721) in [django-money/django-money](https://github.com/django-money/django-money)
+5. 🎉 Merged PR [#429](https://github.com/rzashakeri/Instagram-Assistant/pull/429) in [rzashakeri/Instagram-Assistant](https://github.com/rzashakeri/Instagram-Assistant)
 <!--END_SECTION:activity-->
 
 ## GitHub Profile Trophy 🏆
