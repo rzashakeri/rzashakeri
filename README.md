@@ -209,11 +209,11 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#226](https://github.com/file-validator/file-validator/pull/226) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
-2. 💪 Opened PR [#226](https://github.com/file-validator/file-validator/pull/226) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
-3. 🗣 Commented on [#5](https://github.com/barnamenevisi/awesome-persian/pull/5#issuecomment-1714368992) in [barnamenevisi/awesome-persian](https://github.com/barnamenevisi/awesome-persian)
-4. ❌ Closed PR [#5](https://github.com/barnamenevisi/awesome-persian/pull/5) in [barnamenevisi/awesome-persian](https://github.com/barnamenevisi/awesome-persian)
-5. 🎉 Merged PR [#225](https://github.com/file-validator/file-validator/pull/225) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
+1. 🗣 Commented on [#6](https://github.com/barnamenevisi/awesome-persian/pull/6#issuecomment-1715836778) in [barnamenevisi/awesome-persian](https://github.com/barnamenevisi/awesome-persian)
+2. 🎉 Merged PR [#6](https://github.com/barnamenevisi/awesome-persian/pull/6) in [barnamenevisi/awesome-persian](https://github.com/barnamenevisi/awesome-persian)
+3. 🎉 Merged PR [#226](https://github.com/file-validator/file-validator/pull/226) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
+4. 💪 Opened PR [#226](https://github.com/file-validator/file-validator/pull/226) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
+5. 🗣 Commented on [#5](https://github.com/barnamenevisi/awesome-persian/pull/5#issuecomment-1714368992) in [barnamenevisi/awesome-persian](https://github.com/barnamenevisi/awesome-persian)
 <!--END_SECTION:activity-->
 
 ## GitHub Profile Trophy 🏆
