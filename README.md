@@ -207,14 +207,7 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
 
 ## Recent GitHub Activity ✅
 
-<!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#227](https://github.com/file-validator/file-validator/pull/227) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
-2. 💪 Opened PR [#227](https://github.com/file-validator/file-validator/pull/227) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
-3. 🗣 Commented on [#6](https://github.com/barnamenevisi/awesome-persian/pull/6#issuecomment-1715836778) in [barnamenevisi/awesome-persian](https://github.com/barnamenevisi/awesome-persian)
-4. 🎉 Merged PR [#6](https://github.com/barnamenevisi/awesome-persian/pull/6) in [barnamenevisi/awesome-persian](https://github.com/barnamenevisi/awesome-persian)
-5. 🎉 Merged PR [#226](https://github.com/file-validator/file-validator/pull/226) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
-<!--END_SECTION:activity-->
+![Metrics](https://metrics.lecoq.io/rzashakeri?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=true&activity.filter=all&config.timezone=Asia%2FTehran)
 
 ## GitHub Profile Trophy 🏆
 
