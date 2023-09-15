@@ -149,7 +149,7 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
       <br>Docusaurus
     </td>
     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pytest_logo.svg/1200px-Pytest_logo.svg.png" width="48" height="48" alt="dart" />
+        <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
       <br>Pytest
     </td>
   </tr>
