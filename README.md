@@ -219,8 +219,8 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
    <br/>
   <br/>
  
-   <a href="https://github.com/rzashakeri/pycharm-portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=pycharm-portfolio&theme=default" />
+   <a href="https://github.com/rzashakeri/personal-site">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=personal-site&theme=default" />
  </a>
  
 </details>
